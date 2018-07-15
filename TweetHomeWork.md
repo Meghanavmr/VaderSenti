@@ -873,7 +873,7 @@ plt.bar(x_axis, avg_senti, tick_label = xlabels, color = ['lightblue', 'green', 
 plt.title("Overall Sentiment of Media Tweets")
 plt.xlabel("News Rooms")
 plt.ylabel("Tweet Polarity")
-plt.savefig("Bar plot of news tweets.png")
+plt.savefig("tweetplot2.png")
 plt.show()
 ```
 
